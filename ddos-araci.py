@@ -18,8 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet G
-SHT Ddos Attack")
+os.system("figlet SHT DDOS ARACI")
 print
 print
 ip = raw_input("Hedef ip : ")
